@@ -39,4 +39,4 @@ I learned mobile first work flow from the project.And also I am used and learn f
 
 ## Author
 
-- Frontend Mentor - [@murugan](https://www.frontendmentor.io/profile/MURUGAN008)
+- Frontend Mentor - [@MURUGAN008](https://www.frontendmentor.io/profile/MURUGAN008)
